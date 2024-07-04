@@ -4,6 +4,7 @@ about: このプロジェクトのアイデアを提案してください
 title: ''
 labels: ''
 assignees: ''
+status: 'Backlog'
 ---
 
 あなたの機能リクエストは問題に関連していますか？詳細を説明してください。
