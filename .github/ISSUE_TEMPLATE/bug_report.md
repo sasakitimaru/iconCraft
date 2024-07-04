@@ -4,7 +4,7 @@ about: 改善のためのレポートを作成する
 title: ""
 labels: ""
 assignees: ""
-status: "New"
+status: "Backlog"
 ---
 
 ## バグの説明
